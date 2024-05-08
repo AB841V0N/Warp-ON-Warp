@@ -85,7 +85,7 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "warp-ir@VIP_FRAGMENT_V2RAY § 0  § 0",
+        "warp-ir § 0  § 0",
         "REvil § 1 § 1"
       ],
       "default": "auto"
@@ -102,7 +102,7 @@
     },
     {
       "type": "wireguard",
-      "tag": "warp-ir@ViP_FRAGMENT_V2RAY § 0  § 0",
+      "tag": "warp-ir § 0  § 0",
       "local_address": [
         "172.16.0.2/24",
         "2606:4700:110:8732:875c:4484:9c56:c0fd/128"
@@ -119,7 +119,7 @@
     },
     {
       "type": "wireguard",
-      "tag": "REvil@ViP_FRAGMMENT_V2RAY § 1 § 1",
+      "tag": "REvil § 1 § 1",
       "detour": "warp-ir § 0  § 0",
       "local_address": [
         "172.16.0.2/24",
@@ -204,5 +204,4 @@
     }
   }
 }
-.
 warp://162.159.192.46:891/?ifp=5-10#telegram-chanel : @ViP_FRAGMENT_V2RAY
