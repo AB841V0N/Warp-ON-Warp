@@ -85,7 +85,7 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "warp-ir § 0  § 0",
+        "warp-ir@VIP_FRAGMENT_V2RAY § 0  § 0",
         "REvil § 1 § 1"
       ],
       "default": "auto"
